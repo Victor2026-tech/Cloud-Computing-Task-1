@@ -74,11 +74,10 @@ Expiration:
 Credit expires after 30 days
 Some services revert to pay-as-you-go after free period
 9. Troubleshooting
-| Issue                  | Solution                               |
-| ---------------------- | -------------------------------------- |
-| Cannot create resource | Check subscription is active           |
-| Budget not saving      | Ensure correct billing scope selected  |
-| Portal not loading     | Clear browser cache or use Edge/Chrome |
+ Issue and Solution                              
+a. Cannot create resource; solution--- Check subscription is active
+b. Budget not saving; solution--- Ensure correct billing scope selected
+c. Portal not loading; solution--- Clear browser cache and refresh
 10. Completion Checklist
  Azure account created
  Email verification completed
